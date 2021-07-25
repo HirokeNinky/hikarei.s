@@ -2,9 +2,9 @@
 | :--: | :--: | :--: |
 ![algolia][algolia]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/mcarief110/mcarief110)
 
-[![mcarief110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![mcarief110's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/mcarief110/mcarief110/)
 
 | | | |
 | :--: | :--: | :--: |
@@ -31,7 +31,7 @@
 [nightowl]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
 [buefy]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy
 [blue-green]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=blue-green
-[algolia]: https://github-readme-stats.vercel.app/api?username=G-Hikaru&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
+[algolia]: https://github-readme-stats.vercel.app/api?username=mcarief110&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=algolia
 [great-gatsby]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby
 [darcula]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=darcula
 [bear]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
@@ -78,7 +78,7 @@
 [nightowl_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=nightowl
 [buefy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=buefy
 [blue-green_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=blue-green
-[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=G-Hikaru&repo=G-Hikaru&cache_seconds=86400&theme=algolia
+[algolia_repo]: https://github-readme-stats.vercel.app/api/pin/?username=mcarief110&repo=mcarief110&cache_seconds=86400&theme=algolia
 [great-gatsby_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=great-gatsby
 [darcula_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=darcula
 [bear_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=bear
