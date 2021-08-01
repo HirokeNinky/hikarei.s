@@ -1,9 +1,9 @@
-![Hikarei's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcarief110&show_icons=true&theme=algolia)
+![Hikarei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikarei-id&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcarief110&theme=algolia)](https://github.com/mcarief110/mcarief110/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hikarei-id&theme=algolia)](https://github.com/Hikarei-id/hikarei.s/)
 
 ![Hikarei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=algolia)
 
-<a href="https://github.com/mcarief110/mcarief110">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mcarief110&repo=mcarief110" />
+<a href="https://github.com/Hikarei-id/Hiroke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hikarei-id&repo=Hiroke" />
 </a>
