@@ -5,5 +5,5 @@
 ![Hikarei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=algolia)
 
 <a href="https://github.com/Hikarei-id/Hiroke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hikarei-id&repo=Hiroke" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hikarei-id&repo=Hiroke"/>
 </a>
